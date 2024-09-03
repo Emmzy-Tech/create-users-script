@@ -6,3 +6,6 @@ Sample update to Cally Branch2
 Masters potential conflict
 Dev Branch potential conflict
 Cally Branch potential conflict
+
+This is an update from the online repository 
+Good to go
